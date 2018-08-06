@@ -7,6 +7,7 @@ or followed the tutorial in their own time.
 
 Workshops
 =========
+Shirley Shah Auguest 6th 2018 I did thos tutorial online 
 
 Pycon Zimbabwe in Harare, 24th November 2016
 ---------------------------------------------
